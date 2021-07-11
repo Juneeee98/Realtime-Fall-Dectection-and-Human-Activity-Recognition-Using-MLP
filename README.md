@@ -2,7 +2,7 @@
 
 Realtime Fall Detection and Human Activity Recognition using Multilayer Perceptron Neural Network from gyroscope and accelerometer sensor sent from a ESP-32 Microcontroller
 
-##Hardware Used
+## Hardware Used
 
 GY-521 MPU6050 IMU motion sensor
 NodeMCU ESP32 Microcontroller
