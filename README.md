@@ -10,9 +10,9 @@ NodeMCU ESP32 Microcontroller
 
 ## Results
 
-## Confusion Maatrix
+## Confusion Matrix
 
-![Image](https://github.com/Juneeee98/Realtime-Fall-Dectection-and-Human-Activity-Recognition-Using-MLP/tree/main/Results/1.png?raw=true)
+![Image_1]!(Results/1.png)
 
 
 ## License
