@@ -5,6 +5,7 @@ Realtime Fall Detection and Human Activity Recognition using Multilayer Perceptr
 ## Hardware Used
 
 GY-521 MPU6050 IMU motion sensor
+
 NodeMCU ESP32 Microcontroller
 
 ## Results
