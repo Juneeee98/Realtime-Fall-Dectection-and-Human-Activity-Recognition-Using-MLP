@@ -35,7 +35,9 @@ model = tf.keras.models.load_model('./model/model_4')
 ## Results
 
 ![Image_2](Results/4.jpeg)
+
 ![Image_3](Results/2.jpeg)
+
 ![Image_4](Results/3.jpeg)
 
 ## Confusion Matrix
