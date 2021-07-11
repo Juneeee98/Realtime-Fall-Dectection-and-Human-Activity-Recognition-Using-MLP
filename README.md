@@ -25,6 +25,12 @@ Training is done using the Model_Training.py file. Please specify the dataset lo
 df = pd.concat([pd.read_csv(f) for f in glob.glob('./[Dataset_Folder_Path]/*.csv')], ignore_index = True)
 ```
 
+To test the model without using any hardware please use the Model_Testing.py file. Please specify the saved model path and the testing dataset path in :
+```python
+df = pd.concat([pd.read_csv(f) for f in glob.glob('./test/*.csv')], ignore_index = True)
+
+model = tf.keras.models.load_model('./model/model_4')
+```
 
 ## Results
 
