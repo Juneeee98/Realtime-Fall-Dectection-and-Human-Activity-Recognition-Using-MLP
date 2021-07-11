@@ -9,10 +9,12 @@ GY-521 MPU6050 IMU motion sensor
 NodeMCU ESP32 Microcontroller
 
 ## Results
+![Image_1](Results/2.jpeg)
+![Image_2](Results/3.jpeg)
 
 ## Confusion Matrix
 
-![Image_1](Results/1.png)
+![Image_3](Results/1.png)
 
 
 ## License
